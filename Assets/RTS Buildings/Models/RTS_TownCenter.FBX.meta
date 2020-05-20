@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 06391812a2bf6cf40a6663aa9d3d82e8
+labels:
+- topdown
+- top
+- down
+- strategy
+- medieval
+- fantasy
+- towncenter
+timeCreated: 1456325197
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Dummy006
+    100002: Dummy007
+    100004: Dummy008
+    100006: Dummy009
+    100008: Dummy010
+    100010: Dummy011
+    100012: RTS_Banner001
+    100014: RTS_Banners
+    100016: RTS_Props
+    100018: //RootNode
+    100020: RTS_TownCenter
+    400000: Dummy006
+    400002: Dummy007
+    400004: Dummy008
+    400006: Dummy009
+    400008: Dummy010
+    400010: Dummy011
+    400012: RTS_Banner001
+    400014: RTS_Banners
+    400016: RTS_Props
+    400018: //RootNode
+    400020: RTS_TownCenter
+    2300000: RTS_Banners
+    2300002: RTS_Props
+    2300004: RTS_TownCenter
+    3300000: RTS_Banners
+    3300002: RTS_Props
+    3300004: RTS_TownCenter
+    4300000: RTS_TownCenter
+    4300002: RTS_Props
+    4300004: RTS_Banner001
+    4300006: RTS_Banners
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: RTS_Banner001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy011
+        weight: 1
+      - path: Dummy011/Dummy006
+        weight: 1
+      - path: Dummy011/Dummy006/Dummy007
+        weight: 1
+      - path: Dummy011/Dummy006/Dummy007/Dummy008
+        weight: 1
+      - path: Dummy011/Dummy006/Dummy007/Dummy008/Dummy009
+        weight: 1
+      - path: Dummy011/Dummy006/Dummy007/Dummy008/Dummy009/Dummy010
+        weight: 1
+      - path: RTS_Banner001
+        weight: 1
+      - path: RTS_Banners
+        weight: 1
+      - path: RTS_TownCenter
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

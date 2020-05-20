@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: ddfb9703660fcc04bb12ee567ef1adae
+timeCreated: 1514760861
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: HSoldier_Head
+    100002: HSoldier_Hips
+    100004: HSoldier_LeftArm
+    100006: HSoldier_LeftFoot
+    100008: HSoldier_LeftForeArm
+    100010: HSoldier_LeftHand
+    100012: HSoldier_LeftLeg
+    100014: HSoldier_LeftUpLeg
+    100016: HSoldier_RightArm
+    100018: HSoldier_RightFoot
+    100020: HSoldier_RightForeArm
+    100022: HSoldier_RightHand
+    100024: HSoldier_RightLeg
+    100026: HSoldier_RightUpLeg
+    100028: HSoldier_Root
+    100030: HSoldier_Spine
+    100032: //RootNode
+    400000: HSoldier_Head
+    400002: HSoldier_Hips
+    400004: HSoldier_LeftArm
+    400006: HSoldier_LeftFoot
+    400008: HSoldier_LeftForeArm
+    400010: HSoldier_LeftHand
+    400012: HSoldier_LeftLeg
+    400014: HSoldier_LeftUpLeg
+    400016: HSoldier_RightArm
+    400018: HSoldier_RightFoot
+    400020: HSoldier_RightForeArm
+    400022: HSoldier_RightHand
+    400024: HSoldier_RightLeg
+    400026: HSoldier_RightUpLeg
+    400028: HSoldier_Root
+    400030: HSoldier_Spine
+    400032: //RootNode
+    7400000: Death2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Death2
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: HSoldier_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: RTS_HSoldier(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ctrl_Feet_L
+      parentName: RTS_HSoldier(Clone)
+      position: {x: -1.5403941, y: 0.5343846, z: -0.41327095}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ctrl_Feet_R
+      parentName: RTS_HSoldier(Clone)
+      position: {x: 1.5403941, y: 0.53438205, z: -0.41327235}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ctrl_Hip
+      parentName: RTS_HSoldier(Clone)
+      position: {x: -0, y: 5.0870476, z: -0.13363409}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ctrl_Chest
+      parentName: Ctrl_Hip
+      position: {x: -0, y: 3.1021957, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ctrl_Head
+      parentName: Ctrl_Chest
+      position: {x: -5.916457e-31, y: 1.8265848, z: 0.36527127}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ctrl_Hand_L
+      parentName: Ctrl_Hip
+      position: {x: -4.106353, y: -0.16640091, z: -0.31067586}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ctrl_Hand_R
+      parentName: Ctrl_Hip
+      position: {x: 4.106356, y: -0.16640282, z: -0.3106758}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_Root
+      parentName: RTS_HSoldier(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_Hips
+      parentName: HSoldier_Root
+      position: {x: -0, y: 5.0870476, z: -0.13363409}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_LeftUpLeg
+      parentName: HSoldier_Hips
+      position: {x: -0, y: -2.4980018e-16, z: 1.0704939}
+      rotation: {x: -0.044811774, y: -0.0025416764, z: 0.9917081, w: -0.12041811}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_LeftLeg
+      parentName: HSoldier_LeftUpLeg
+      position: {x: -2.2122169, y: 2.7755576e-16, z: 6.661338e-16}
+      rotation: {x: -0.10080181, y: 0.038650185, z: -0.3558305, w: 0.92829406}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_LeftFoot
+      parentName: HSoldier_LeftLeg
+      position: {x: -2.6950085, y: 3.330669e-16, z: 4.440892e-16}
+      rotation: {x: -0.12764035, y: -0.02780875, z: 0.83368605, w: 0.53656524}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_RightUpLeg
+      parentName: HSoldier_Hips
+      position: {x: -0, y: 2.4980018e-16, z: -1.0704939}
+      rotation: {x: -0.0025351346, y: 0.04481259, z: 0.1204178, w: 0.99170816}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_RightLeg
+      parentName: HSoldier_RightUpLeg
+      position: {x: 2.2122169, y: -0.000000004459065, z: 0.000000014671334}
+      rotation: {x: -0.10078364, y: 0.038638435, z: -0.35583034, w: 0.92829657}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_RightFoot
+      parentName: HSoldier_RightLeg
+      position: {x: 2.6950085, y: -5.551115e-17, z: 0.000000058357827}
+      rotation: {x: -0.12764248, y: -0.027768381, z: 0.8336871, w: 0.5365652}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_Spine
+      parentName: HSoldier_Hips
+      position: {x: -3.1021957, y: 0, z: -6.8882583e-16}
+      rotation: {x: 0, y: 0, z: -0.09852562, w: 0.99513453}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_Head
+      parentName: HSoldier_Spine
+      position: {x: -1.8627493, y: 0.00000008774085, z: -3.244768e-16}
+      rotation: {x: 0, y: 0, z: 0.09852562, w: 0.99513453}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_LeftArm
+      parentName: HSoldier_Spine
+      position: {x: -0.82056564, y: -0.16409256, z: 2.6669846}
+      rotation: {x: -0.08667221, y: 0.70609075, z: 0.09078877, w: 0.6969083}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_LeftForeArm
+      parentName: HSoldier_LeftArm
+      position: {x: -2.8715215, y: -3.6082248e-16, z: -1.7763568e-15}
+      rotation: {x: -0.0035611498, y: -0.0058935573, z: -0.0203678, w: 0.99976885}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_LeftHand
+      parentName: HSoldier_LeftForeArm
+      position: {x: -2.2083, y: -4.9960036e-16, z: 0}
+      rotation: {x: 0.0000008784861, y: 7.574986e-13, z: 0.00000086227726, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_RightArm
+      parentName: HSoldier_Spine
+      position: {x: -0.82056564, y: -0.16409256, z: -2.6669846}
+      rotation: {x: 0.70609075, y: 0.0866731, z: -0.6969081, w: 0.09078961}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_RightForeArm
+      parentName: HSoldier_RightArm
+      position: {x: 2.8715215, y: -9.436896e-16, z: 0}
+      rotation: {x: -0.0035609084, y: -0.005893511, z: -0.020367661, w: 0.99976885}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_RightHand
+      parentName: HSoldier_RightForeArm
+      position: {x: 2.2083, y: -5.828671e-16, z: 0.00000010753236}
+      rotation: {x: 0.00000065248537, y: 5.1062735e-13, z: 0.0000007825882, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RTS_HSoldier
+      parentName: RTS_HSoldier(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: bf03958be5324a147a21135ffda035b2,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 463db87d7a97e154d95f7f6fa787fc98
+timeCreated: 1515020460
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: HSoldier_Head
+    100002: HSoldier_Hips
+    100004: HSoldier_LeftArm
+    100006: HSoldier_LeftFoot
+    100008: HSoldier_LeftForeArm
+    100010: HSoldier_LeftHand
+    100012: HSoldier_LeftLeg
+    100014: HSoldier_LeftUpLeg
+    100016: HSoldier_RightArm
+    100018: HSoldier_RightFoot
+    100020: HSoldier_RightForeArm
+    100022: HSoldier_RightHand
+    100024: HSoldier_RightLeg
+    100026: HSoldier_RightUpLeg
+    100028: HSoldier_Root
+    100030: HSoldier_Spine
+    100032: RTS_HMage
+    100034: //RootNode
+    400000: HSoldier_Head
+    400002: HSoldier_Hips
+    400004: HSoldier_LeftArm
+    400006: HSoldier_LeftFoot
+    400008: HSoldier_LeftForeArm
+    400010: HSoldier_LeftHand
+    400012: HSoldier_LeftLeg
+    400014: HSoldier_LeftUpLeg
+    400016: HSoldier_RightArm
+    400018: HSoldier_RightFoot
+    400020: HSoldier_RightForeArm
+    400022: HSoldier_RightHand
+    400024: HSoldier_RightLeg
+    400026: HSoldier_RightUpLeg
+    400028: HSoldier_Root
+    400030: HSoldier_Spine
+    400032: RTS_HMage
+    400034: //RootNode
+    4300000: RTS_HMage
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: RTS_HMage
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: HSoldier_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HSoldier_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: RTS_Mage(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RTS_HMage
+      parentName: RTS_Mage(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_Root
+      parentName: RTS_Mage(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_Hips
+      parentName: HSoldier_Root
+      position: {x: -0, y: 5.0870476, z: -0.13363409}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_LeftUpLeg
+      parentName: HSoldier_Hips
+      position: {x: -0, y: -2.4980018e-16, z: 1.0704939}
+      rotation: {x: -0.04352035, y: 0.005629078, z: 0.9917493, w: -0.1204477}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_LeftLeg
+      parentName: HSoldier_LeftUpLeg
+      position: {x: -2.2122169, y: 4.440892e-16, z: 0}
+      rotation: {x: -0.10080181, y: 0.038650185, z: -0.3558305, w: 0.92829406}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_LeftFoot
+      parentName: HSoldier_LeftLeg
+      position: {x: -2.6950085, y: -5.551115e-17, z: 1.110223e-15}
+      rotation: {x: -0.12760967, y: -0.027885221, z: 0.83338964, w: 0.53702873}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_RightUpLeg
+      parentName: HSoldier_Hips
+      position: {x: -0, y: 2.4980018e-16, z: -1.0704939}
+      rotation: {x: 0.00563556, y: 0.043521214, z: 0.120447405, w: 0.9917493}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_RightLeg
+      parentName: HSoldier_RightUpLeg
+      position: {x: 2.2122169, y: -0.000000004459065, z: 0.000000014671334}
+      rotation: {x: -0.10078364, y: 0.038638435, z: -0.35583034, w: 0.92829657}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_RightFoot
+      parentName: HSoldier_RightLeg
+      position: {x: 2.6950085, y: -6.938894e-16, z: 0.000000058357827}
+      rotation: {x: -0.1276119, y: -0.027844867, z: 0.83339065, w: 0.5370289}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_Spine
+      parentName: HSoldier_Hips
+      position: {x: -3.1021957, y: 0, z: -6.8882583e-16}
+      rotation: {x: -8.326673e-17, y: -5.551115e-17, z: -0.09852562, w: 0.99513453}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_LeftArm
+      parentName: HSoldier_Spine
+      position: {x: -0.82056564, y: -0.16409256, z: 2.6669846}
+      rotation: {x: 0.034811318, y: 0.7133923, z: -0.030303463, w: 0.6992434}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_LeftForeArm
+      parentName: HSoldier_LeftArm
+      position: {x: -2.8715215, y: -2.220446e-16, z: -1.7763568e-15}
+      rotation: {x: -0.005947015, y: -0.009843023, z: -0.019375699, w: 0.99974614}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_LeftHand
+      parentName: HSoldier_LeftForeArm
+      position: {x: -2.2083, y: -4.440892e-16, z: 0}
+      rotation: {x: 0.0000008784861, y: 7.574774e-13, z: 0.00000086227726, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_RightArm
+      parentName: HSoldier_Spine
+      position: {x: -0.82056564, y: -0.16409256, z: -2.6669846}
+      rotation: {x: 0.7133924, y: -0.034810614, z: -0.6992434, w: -0.030302662}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_RightForeArm
+      parentName: HSoldier_RightArm
+      position: {x: 2.8715215, y: -1.110223e-15, z: -1.7763568e-15}
+      rotation: {x: -0.0059468364, y: -0.00984287, z: -0.01937574, w: 0.9997462}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_RightHand
+      parentName: HSoldier_RightForeArm
+      position: {x: 2.2083, y: 8.881784e-16, z: 0.00000010753236}
+      rotation: {x: 0.00000065248537, y: 5.1059157e-13, z: 0.0000007825882, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HSoldier_Head
+      parentName: HSoldier_Spine
+      position: {x: -1.8627493, y: 0.00000008774085, z: -3.244768e-16}
+      rotation: {x: 5.551115e-17, y: 5.551115e-17, z: 0.09852562, w: 0.99513453}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: bf03958be5324a147a21135ffda035b2,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
